@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/AboutMe/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/AboutMe/app/src/main/res/font/roboto_regular.xml" value="0.23125" />
+        <entry key="..\:/AndroidStudioProjects/AboutMe/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
